@@ -1,2 +1,2 @@
-# python-fact
-A python program to print factorial of a number.
+# python-hacktoberfesr
+in this you have to contribute to the some python programs which include binary search, recursion. 
